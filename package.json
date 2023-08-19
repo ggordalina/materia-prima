@@ -1,0 +1,12 @@
+{
+  "name": "materia_prima_requester",
+  "author": "goncalo.jp.gordalina",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "node-html-parser": "^6.1.5"
+  }
+}
